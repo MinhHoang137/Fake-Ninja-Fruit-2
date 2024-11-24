@@ -6,3 +6,5 @@ táo xanh +1 điểm, táo đỏ +2 điểm, lê +3 điểm
 Chém vào bom thì thua cuộc
 
 Ấn ESC để tạm dừng game
+
+Dường dẫn tới video chơi thử: https://youtu.be/Q__t0eHwtKA
